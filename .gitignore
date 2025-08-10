@@ -1,0 +1,10 @@
+# Ignore Python virtual environment folder
+project/.venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db

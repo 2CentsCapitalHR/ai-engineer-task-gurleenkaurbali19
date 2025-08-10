@@ -1,0 +1,152 @@
+[
+  {
+    "doc_types": [
+      "Parent Company Articles of Association",
+      "Parent Company Board Resolution",
+      "Registered Office Address Proof",
+      "Evidence of Appointment",
+      "Nominee Arrangement Confirmation Form",
+      "Confirmation Form – Role",
+      "Register of Members",
+      "Register of Directors",
+      "Economic Substance Form",
+      "Source of Wealth Declaration Form",
+      "Declaration Form",
+      "Signed Lease Agreement"
+    ],
+    "legal_process": "Branch Registration – Financial Services",
+    "description": "Checklist for registering a Financial Services branch in ADGM, as per 2023 requirements.",
+    "required_documents": [
+      "Certified copy of Parent Company Articles of Association",
+      "Board Resolution from Parent Company approving branch registration",
+      "Registered Office Address proof (e.g., signed lease agreement)",
+      "Evidence of Appointment (Register of Directors, Registry Extract, etc.)",
+      "Nominee Arrangement Confirmation Form (if applicable)",
+      "Role Confirmation Form",
+      "Register of Members",
+      "Register of Directors",
+      "Economic Substance Form",
+      "Source of Wealth Declaration Form",
+      "Declaration Form",
+      "Signed Lease Agreement (minimum 1 year validity)"
+    ]
+  },
+  {
+    "doc_types": [
+      "Parent Company Articles of Association",
+      "Parent Company Board Resolution",
+      "Registered Office Address Proof",
+      "Evidence of Appointment",
+      "Nominee Arrangement Confirmation Form",
+      "Confirmation Form – Role",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form",
+      "Signed Lease Agreement"
+    ],
+    "legal_process": "Branch Registration – Non-Financial Services",
+    "description": "Checklist for registering a Non-Financial Services branch in ADGM, as per 2023 requirements.",
+    "required_documents": [
+      "Certified copy of Parent Company Articles of Association",
+      "Board Resolution from Parent Company approving branch registration",
+      "Registered Office Address proof (e.g., signed lease agreement)",
+      "Evidence of Appointment (Register of Directors, Registry Extract, etc.)",
+      "Nominee Arrangement Confirmation Form (if applicable)",
+      "Role Confirmation Form",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form",
+      "Signed Lease Agreement (minimum 1 year validity)"
+    ]
+  },
+  {
+    "doc_types": [
+      "Articles of Association",
+      "Board Resolution",
+      "Registered Office Address Proof",
+      "Evidence of Appointment",
+      "Nominee Arrangement Confirmation Form",
+      "Confirmation Form – Role",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form"
+    ],
+    "legal_process": "Company Incorporation – Investment Company LTD (ICC)",
+    "description": "Checklist for incorporating an Investment Company LTD (ICC) in ADGM.",
+    "required_documents": [
+      "Articles of Association",
+      "Board Resolution approving incorporation",
+      "Registered Office Address proof",
+      "Evidence of Appointment (Register of Directors, Registry Extract, etc.)",
+      "Nominee Arrangement Confirmation Form (if applicable)",
+      "Role Confirmation Form",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form"
+    ]
+  },
+  {
+    "doc_types": [
+      "Articles of Association",
+      "Board Resolution",
+      "Memorandum of Association",
+      "Registered Office Address Proof",
+      "Evidence of Appointment",
+      "Nominee Arrangement Confirmation Form",
+      "Confirmation Form – Role",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form"
+    ],
+    "legal_process": "Company Incorporation – Private Company Limited by Guarantee",
+    "description": "Checklist for incorporating a Private Company Limited by Guarantee (PCLG) in ADGM.",
+    "required_documents": [
+      "Memorandum of Association",
+      "Articles of Association",
+      "Board Resolution approving incorporation",
+      "Registered Office Address proof",
+      "Evidence of Appointment (Register of Directors, Registry Extract, etc.)",
+      "Nominee Arrangement Confirmation Form (if applicable)",
+      "Role Confirmation Form",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form"
+    ]
+  },
+  {
+    "doc_types": [
+      "Articles of Association",
+      "Board Resolution",
+      "Memorandum of Association",
+      "Registered Office Address Proof",
+      "Evidence of Appointment",
+      "Nominee Arrangement Confirmation Form",
+      "Confirmation Form – Role",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form"
+    ],
+    "legal_process": "Company Incorporation – Public Limited Company (PLC)",
+    "description": "Checklist for incorporating a Public Limited Company (PLC) in ADGM.",
+    "required_documents": [
+      "Memorandum of Association",
+      "Articles of Association",
+      "Board Resolution approving incorporation",
+      "Registered Office Address proof",
+      "Evidence of Appointment (Register of Directors, Registry Extract, etc.)",
+      "Nominee Arrangement Confirmation Form (if applicable)",
+      "Role Confirmation Form",
+      "Register of Members",
+      "Register of Directors",
+      "Source of Wealth Declaration Form",
+      "Declaration Form"
+    ]
+  }
+]

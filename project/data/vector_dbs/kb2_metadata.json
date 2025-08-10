@@ -1,0 +1,95 @@
+[
+  {
+    "red_flag_category": "Invalid or Missing Clauses",
+    "description": "Critical clauses absent, incomplete, or contradictory to ADGM regulations.",
+    "examples": [
+      "Missing governing law clause specifying ADGM jurisdiction.",
+      "Absence of dispute resolution clause referencing ADGM Courts or arbitration.",
+      "Omission of mandatory data protection policy clauses per ADGM DPR.",
+      "Employment contracts missing mandatory binding terms or roles."
+    ],
+    "detection_keywords": [
+      "missing clause",
+      "not specified",
+      "contradictory",
+      "absence of",
+      "not included",
+      "omit",
+      "exclude"
+    ]
+  },
+  {
+    "red_flag_category": "Incorrect Jurisdiction References",
+    "description": "References to non-ADGM jurisdictions invalid under ADGM law.",
+    "examples": [
+      "Clauses referencing UAE Federal Courts instead of ADGM Courts.",
+      "Governing law set to jurisdiction outside ADGM.",
+      "Use of non-ADGM arbitration centers or authorities."
+    ],
+    "detection_keywords": [
+      "UAE Federal Courts",
+      "Dubai Courts",
+      "outside ADGM",
+      "foreign jurisdiction",
+      "non-ADGM",
+      "arbitration outside ADGM"
+    ]
+  },
+  {
+    "red_flag_category": "Ambiguous or Non-binding Language",
+    "description": "Use of vague terms that reduce enforceability or certainty.",
+    "examples": [
+      "Use of 'may', 'best efforts', 'subject to approval' without clear obligations.",
+      "Lack of definitive timelines or responsibilities for parties.",
+      "Phrases indicating optional or contingent performance."
+    ],
+    "detection_keywords": [
+      "may",
+      "best efforts",
+      "subject to approval",
+      "at discretion",
+      "if applicable",
+      "reasonable endeavors",
+      "to the extent possible"
+    ]
+  },
+  {
+    "red_flag_category": "Missing Signatory Sections or Improper Formatting",
+    "description": "Documents missing required signatures, witnesses, or prescribed ADGM formatting.",
+    "examples": [
+      "Absence of authorized signatory blocks on contracts or resolutions.",
+      "Missing corporate seals where required.",
+      "Templates lacking official ADGM headers or footers.",
+      "Signatories not named or dated properly."
+    ],
+    "detection_keywords": [
+      "missing signature",
+      "unsigned",
+      "no witness",
+      "not dated",
+      "no seal",
+      "no signatory",
+      "formatting error",
+      "template missing"
+    ]
+  },
+  {
+    "red_flag_category": "Non-compliance with ADGM-specific Templates",
+    "description": "Deviation from official ADGM document templates risking rejection.",
+    "examples": [
+      "Use of non-standard clause wording not in ADGM templates.",
+      "Omission of mandatory ADGM disclaimer or policy paragraphs.",
+      "Altered formatting or missing mandatory sections.",
+      "Employment contracts not adhering to ADGM ER templates."
+    ],
+    "detection_keywords": [
+      "template deviation",
+      "non-compliant",
+      "altered format",
+      "missing section",
+      "non-standard clause",
+      "does not conform",
+      "not as per ADGM template"
+    ]
+  }
+]
