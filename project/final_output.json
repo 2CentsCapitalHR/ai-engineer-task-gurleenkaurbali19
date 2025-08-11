@@ -1,0 +1,32 @@
+{
+  "process": "<Company Incorporation – Private Company Limited by Guarantee>",
+  "documents_uploaded": 1,
+  "required_documents": [
+    "Memorandum of Association",
+    "Articles of Association"
+  ],
+  "missing_document": "Board Resolution approving incorporation (Unknown)",
+  "issues_found": [
+    {
+      "document": "<Board Resolution>",
+      "section": "<Approval for Incorbonition> (Unknown)",
+      "issue": "Lack of explicit Board Approval required.",
+      "severity": "High",
+      "suggestion": "Add an approving board resolution within documents."
+    },
+    {
+      "document": "<Memorandum>",
+      "section": "<Interpretation and Limitation of Liability> (Unknown)",
+      "issue": "Missing defined terms.",
+      "severity": "Medium",
+      "suggestion": "Include definitions within the Memorandum for clarity."
+    },
+    {
+      "document": "<Articles>",
+      "section": "<Capitalisation of Profits> (Unknown)",
+      "issue": "No capitalised profits provision.",
+      "severity": "Medium",
+      "suggestion": "Add a section within the Articles for appropriation and reinvestment."
+    }
+  ]
+}

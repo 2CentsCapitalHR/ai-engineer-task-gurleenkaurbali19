@@ -1,0 +1,3 @@
+{
+  "raw_output": "{\n  \"process\": \"<Legal process detected; 'Company Incorporation â€“ Private Company Limited by Guarantee'>\",\n  \"documents_uploaded\": 1,\n  \"required_documents\": 9, // Based on the provided document text and similarity search KB entries.\n  \"missing_document\": \"Unknown\",\n  \"issues_found\": []\n}"
+}
